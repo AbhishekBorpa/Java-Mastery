@@ -6,9 +6,9 @@ public class HelloWorld{
       double b = 20.98;
       char c  = 'A';
       boolean isTrue  = true;
-      System.out.println("b"+b);
-      System.out.println("c"+c);
-      System.out.println("IsTrue"+isTrue);
+      System.out.println("b "+b);
+      System.out.println("c "+c);
+      System.out.println("IsTrue "+isTrue);
 
 
 
